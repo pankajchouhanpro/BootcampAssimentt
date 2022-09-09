@@ -1,0 +1,24 @@
+class    SportClub    City    SportFeatures    Membership    Ragister_club    Services    Membership_plan 
+   
+method   
+ inoor game    
+outdoor game    
+life time membership   
+ weekly------------------                   
+ sorttuam    
+montholy----------------    
+
+
+
+singal    
+ playeer Id,Name,Gender,
+
+static 
+playersname,dob,gender
+
+dynamic   
+  mobilenumber,age,city,email
+
+multivalue 
+  mobilenumber,email,address,playingroal
+
